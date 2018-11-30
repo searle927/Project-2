@@ -17,6 +17,21 @@ joining a development team during your career. Working collaboratively is a
 learned skill, just like programming. It's important to learn how to work
 together.
 
+## Groups
+
+### 1:
+* Bijay
+* Christina
+* Salman
+
+### 2:
+* Miki
+* Donell
+
+### 3:
+* Tishana
+* Sam
+
 ## Requirements
 
 ### Technical Requirements
