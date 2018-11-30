@@ -33,7 +33,6 @@ together.
 ### 3.
 - Tishana
 - Sam
-
 </details>
 
 ## Requirements
