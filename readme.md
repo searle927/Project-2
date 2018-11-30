@@ -18,6 +18,8 @@ learned skill, just like programming. It's important to learn how to work
 together.
 
 ## Groups
+<details>
+<summary>Groups</summary>
 
 ### 1:
 * Bijay
@@ -31,6 +33,8 @@ together.
 ### 3:
 * Tishana
 * Sam
+
+</details>
 
 ## Requirements
 
