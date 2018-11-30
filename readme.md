@@ -21,16 +21,16 @@ together.
 <details>
 <summary>Groups</summary>
 
-### 1:
+### 1.
 - Bijay
 - Christina
 - Salman
 
-### 2:
+### 2.
 - Miki
 - Donell
 
-### 3:
+### 3.
 - Tishana
 - Sam
 
