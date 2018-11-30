@@ -22,17 +22,17 @@ together.
 <summary>Groups</summary>
 
 ### 1:
-Bijay
-Christina
-Salman
+- Bijay
+- Christina
+- Salman
 
 ### 2:
-Miki
-Donell
+- Miki
+- Donell
 
 ### 3:
-Tishana
-Sam
+- Tishana
+- Sam
 
 </details>
 
