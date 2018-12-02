@@ -3,15 +3,14 @@
 ## 1:
 * Bijay
 * Christina
-* Salman
+* Sam
+
 
 ## 2:
-* Miki
 * Donell
-
-## 3:
 * Tishana
-* Sam
+* Salman
+
 
 <!-- ## Krypton:
 * Juan
