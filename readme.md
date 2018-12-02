@@ -21,18 +21,17 @@ together.
 <details>
 <summary>Groups</summary>
 
-### 1.
-- Bijay
-- Christina
-- Salman
+## 1:
+* Bijay
+* Christina
+* Sam
 
-### 2.
-- Miki
-- Donell
 
-### 3.
-- Tishana
-- Sam
+## 2:
+* Donell
+* Tishana
+* Salman
+
 </details>
 
 ## Requirements
