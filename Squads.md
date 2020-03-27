@@ -25,14 +25,13 @@
 - Julie
 - Bernd
 - Juan
-- Sebastian
 
 **Nathaniel**
 
 - Marshall
 - Haley
 - Douglas
-- Robert
+- Sebastian
 - Isaiah
 - Andrew
 - Cameron
