@@ -75,7 +75,7 @@ Show us what you've got!
 ### In-person Support
 
 Each student will be given 5 (five) tokens, redeemable at any time during regular
-class and Study Hall time (not including evening Office hours), for 20 minutes
+class (not including evening Office hours), for 20 minutes
 with an instructor. Tokens cannot be transferred between students - there is no
 black market for tokens.
 
