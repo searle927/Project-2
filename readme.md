@@ -98,7 +98,7 @@ When you submit an issue please include the following:
   3. What error you got
   4. What you already tried to resolve your error and the result of those attempts
 
-> [Check here for details on this process](https://github.com/ga-dc/wdi12/blob/master/asking-for-help.md#during-project-weeks).
+> [Check here for details on this process](asking-for-help.md).
 
 We also strongly recommend **using Slack to get help from your classmates**. Chances are you all will be running into similar problems.
 
