@@ -16,6 +16,7 @@ Use this section to include info about the API you have chosen and a code snippe
 My API will allow people to search whatever types of food they are interested in making. Once they search the food, a recipe will show up, allowing them to cook just like the professionals.
 
 API Key: 1da4a2bb0e8b8d3f0295172c2ca9360a
+
 API ID: b4d5b79d
 
 ```
