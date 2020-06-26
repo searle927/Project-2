@@ -1,8 +1,8 @@
-# Shaina's Project Overview 
+# Shaina's Recipe Project Overview 
 
 ## Project Links
 
-- [add your github repo link](https://github.com/searle927/Project-2)
+- [Project-2 Repo Link](https://github.com/searle927/Project-2)
 - [add your deployment link]()
 
 ## Project Description
@@ -80,8 +80,8 @@ API ID: b4d5b79d
 
 Upload images of wireframe to cloudinary and add the link here with a description of the specific wireframe. Also, define the the React components and the architectural design of your app.
 
-- [add link to your wireframes](https://i.imgur.com/L0FYhUM.jpg)
-- [add link to your react architecture](https://i.imgur.com/j6rwjgN.jpg)
+- [Shaina's Wireframes](https://i.imgur.com/L0FYhUM.jpg)
+- [Shaina's React Architecture](https://i.imgur.com/j6rwjgN.jpg)
 
 
 ### MVP/PostMVP - 5min
